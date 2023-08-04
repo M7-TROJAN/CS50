@@ -52,6 +52,6 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 - Mahmoud Mohamed
 - Email: mahmoud.abdalaziz@outlook.com
 - LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohamed-abd/)
-- GitHub: [YourUsername](https://github.com/mattar470) 
+- GitHub: [mattar470](https://github.com/mattar740) 
 
 Happy coding!
