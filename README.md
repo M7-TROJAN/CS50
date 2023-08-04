@@ -49,8 +49,9 @@ I'm deeply grateful to [Harvard University](https://www.harvard.edu/) and the en
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-- GitHub: [YourUsername](https://github.com/YourUsername)
+- Mahmoud Mohamed
+- Email: mahmoud.abdalaziz@outlook.com
+- LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohamed-abd/)
+- GitHub: [YourUsername](https://github.com/mattar470)
 
 Happy coding!
