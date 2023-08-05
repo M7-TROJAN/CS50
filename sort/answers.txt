@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Bubble Sort is known for its simplicity and ease of implementation, making it suitable for smaller data sets. Its time complexity is O(n^2), which means it can become inefficient for larger data sets. Therefore, sort1 is likely using Bubble Sort as it has the fastest speed with small data sets.
+
+sort2 uses: Merge Sort
+
+How do you know?: Merge Sort is known for its efficient and consistent performance. It has a time complexity of O(n * log(n)), which makes it suitable for larger data sets. The fact that sort2 has the lowest sys run time suggests that it consistently runs the fastest. This observation aligns with the efficiency of Merge Sort, making it likely that sort2 is using this algorithm.
+
+sort3 uses: Selection Sort
+
+How do you know?: Selection Sort has a time complexity of O(n^2) and is known to be efficient for smaller data sets. It works by repeatedly selecting the minimum element and placing it in the correct position. Given that sort3 is the fastest for smaller datasets, which is consistent with the performance of Selection Sort, it is likely that sort3 is using this algorithm.
