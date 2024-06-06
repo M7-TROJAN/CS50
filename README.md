@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://cs50.harvard.edu/x/2022/tracks/web/track/web50/logo.png" alt="CS50 Logo" width="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/800px-Harvard_University_coat_of_arms.svg.png" alt="Harvard Logo" width="150">
 </p>
+
 
 # CS50 Problem Sets and Code Solutions
 
@@ -14,26 +15,29 @@ CS50 is a legendary course that has introduced countless students to the world o
 
 Each problem set and project is organized into its own folder, containing the problem statement, my solution, and any additional resources or notes that I found useful while working on it.
 
+```plaintext
 CS50/
 │
 ├── pset1/
-│ ├── hello/
-│ ├── mario/
-│ └── cash/
+│   ├── hello/
+│   ├── mario/
+│   └── cash/
 │
 ├── pset2/
-│ ├── caesar/
-│ ├── substitution/
-│ └── readibility/
+│   ├── caesar/
+│   ├── substitution/
+│   └── readability/
 │
 ├── ... (more psets and projects)
 │
 ├── FinalProject/
-│ ├── mywebapp/
-│ ├── ...
-│ └── README.md
+│   ├── mywebapp/
+│   ├── ...
+│   └── README.md
 │
 └── README.md
+```
+
 
 
 
